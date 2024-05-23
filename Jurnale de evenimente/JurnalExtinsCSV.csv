@@ -1,0 +1,181 @@
+﻿case ID,activity,timestamp,resource
+1,Primire materii prime,01.11.2023 08:00:00,Lucrător
+1,Extragere uleiuri esențiale din plante,01.11.2023 09:30:00,Chimist Parfumier
+1,Verificare tip flori,01.11.2023 10:00:00,Parfumier
+1,Macerare la cald,01.11.2023 11:00:00,Parfumier
+1,Testare calitate produse,01.11.2023 12:00:00,Tester Calitate
+1,Îmbuteliere și ambalare,01.11.2023 12:30:00,Lucrător
+2,Primire materii prime,15.11.2023 08:00:00,Lucrător
+2,Extragere uleiuri esențiale din plante,15.11.2023 09:30:00,Chimist Parfumier
+2,Verificare tip flori,15.11.2023 10:00:00,Parfumier
+2,Macerare la rece,15.11.2023 11:00:00,Parfumier
+2,Testare calitate produse,15.11.2023 11:30:00,Tester Calitate
+2,Îmbuteliere și ambalare,15.11.2023 12:30:00,Lucrător
+3,Primire materii prime,01.12.2023 08:00:00,Lucrător
+3,Extragere uleiuri esențiale din plante,01.12.2023 09:30:00,Chimist Parfumier
+3,Extragere solvenți volatili,01.12.2023 10:00:00,Chimist Parfumier
+3,Extragere dioxid de carbon,01.12.2023 10:40:00,Chimist Parfumier
+3,Testare calitate produse,05.12.2023 12:00:00,Tester Calitate
+3,Îmbuteliere și ambalare,05.12.2023 12:30:00,Lucrător
+4,Primire materii prime,10.12.2023 08:00:00,Lucrător
+4,Extragere uleiuri esențiale din plante,10.12.2023 09:30:00,Chimist Parfumier
+4,Extragere solvenți volatili,10.12.2023 10:00:00,Chimist Parfumier
+4,Extragere dioxid de carbon,10.12.2023 10:40:00,Chimist Parfumier
+4,Testare calitate produse,11.12.2023 12:00:00,Tester Calitate
+4,Anulare comandă,11.12.2023 12:30:00,Lucrător
+5,Primire materii prime,15.12.2023 08:00:00,Lucrător
+5,Extragere uleiuri esențiale din plante,15.12.2023 09:30:00,Chimist Parfumier
+5,Verificare tip flori,15.12.2023 10:00:00,Parfumier
+5,Macerare la rece,15.12.2023 11:00:00,Parfumier
+5,Testare calitate produse,15.12.2023 11:30:00,Tester Calitate
+5,Anulare comandă,15.12.2023 12:30:00,Lucrător
+6,Primire materii prime,01.11.2023 08:00:00,Lucrător
+6,Extragere uleiuri esențiale din plante,01.11.2023 09:30:00,Chimist Parfumier
+6,Verificare tip flori,01.11.2023 10:00:00,Parfumier
+6,Macerare la cald,01.11.2023 11:00:00,Parfumier
+6,Testare calitate produse,01.11.2023 12:00:00,Tester Calitate
+6,Îmbuteliere și ambalare,01.11.2023 12:30:00,Lucrător
+7,Primire materii prime,15.11.2023 08:00:00,Lucrător
+7,Extragere uleiuri esențiale din plante,15.11.2023 09:30:00,Chimist Parfumier
+7,Verificare tip flori,15.11.2023 10:00:00,Parfumier
+7,Macerare la rece,15.11.2023 11:00:00,Parfumier
+7,Testare calitate produse,15.11.2023 11:30:00,Tester Calitate
+7,Îmbuteliere și ambalare,15.11.2023 12:30:00,Lucrător
+8,Primire materii prime,01.12.2023 08:00:00,Lucrător
+8,Extragere uleiuri esențiale din plante,01.12.2023 09:30:00,Chimist Parfumier
+8,Extragere solvenți volatili,01.12.2023 10:00:00,Chimist Parfumier
+8,Extragere dioxid de carbon,01.12.2023 10:40:00,Chimist Parfumier
+8,Testare calitate produse,05.12.2023 12:00:00,Tester Calitate
+8,Îmbuteliere și ambalare,05.12.2023 12:30:00,Lucrător
+9,Primire materii prime,10.12.2023 08:00:00,Lucrător
+9,Extragere uleiuri esențiale din plante,10.12.2023 09:30:00,Chimist Parfumier
+9,Extragere solvenți volatili,10.12.2023 10:00:00,Chimist Parfumier
+9,Extragere dioxid de carbon,10.12.2023 10:40:00,Chimist Parfumier
+9,Testare calitate produse,11.12.2023 12:00:00,Tester Calitate
+9,Anulare comandă,11.12.2023 12:30:00,Lucrător
+10,Primire materii prime,15.12.2023 08:00:00,Lucrător
+10,Extragere uleiuri esențiale din plante,15.12.2023 09:30:00,Chimist Parfumier
+10,Verificare tip flori,15.12.2023 10:00:00,Parfumier
+10,Macerare la cald,15.12.2023 11:00:00,Parfumier
+10,Testare calitate produse,15.12.2023 11:30:00,Tester Calitate
+10,Anulare comandă,15.12.2023 12:30:00,Lucrător
+11,Primire materii prime,01.11.2023 08:00:00,Lucrător
+11,Extragere uleiuri esențiale din plante,01.11.2023 09:30:00,Chimist Parfumier
+11,Verificare tip flori,01.11.2023 10:00:00,Parfumier
+11,Macerare la cald,01.11.2023 11:00:00,Parfumier
+11,Testare calitate produse,01.11.2023 12:00:00,Tester Calitate
+11,Îmbuteliere și ambalare,01.11.2023 12:30:00,Lucrător
+12,Primire materii prime,15.11.2023 08:00:00,Lucrător
+12,Extragere uleiuri esențiale din plante,15.11.2023 09:30:00,Chimist Parfumier
+12,Verificare tip flori,15.11.2023 10:00:00,Parfumier
+12,Macerare la rece,15.11.2023 11:00:00,Parfumier
+12,Testare calitate produse,15.11.2023 11:30:00,Tester Calitate
+12,Îmbuteliere și ambalare,15.11.2023 12:30:00,Lucrător
+13,Primire materii prime,01.12.2023 08:00:00,Lucrător
+13,Extragere uleiuri esențiale din plante,01.12.2023 09:30:00,Chimist Parfumier
+13,Extragere solvenți volatili,01.12.2023 10:00:00,Chimist Parfumier
+13,Extragere dioxid de carbon,01.12.2023 10:40:00,Chimist Parfumier
+13,Testare calitate produse,05.12.2023 12:00:00,Tester Calitate
+13,Îmbuteliere și ambalare,05.12.2023 12:30:00,Lucrător
+14,Primire materii prime,10.12.2023 08:00:00,Lucrător
+14,Extragere uleiuri esențiale din plante,10.12.2023 09:30:00,Chimist Parfumier
+14,Extragere solvenți volatili,10.12.2023 10:00:00,Chimist Parfumier
+14,Extragere dioxid de carbon,10.12.2023 10:40:00,Chimist Parfumier
+14,Testare calitate produse,11.12.2023 12:00:00,Tester Calitate
+14,Anulare comandă,11.12.2023 12:30:00,Lucrător
+15,Primire materii prime,15.12.2023 08:00:00,Lucrător
+15,Extragere uleiuri esențiale din plante,15.12.2023 09:30:00,Chimist Parfumier
+15,Verificare tip flori,15.12.2023 10:00:00,Parfumier
+15,Macerare la rece,15.12.2023 11:00:00,Parfumier
+15,Testare calitate produse,15.12.2023 11:30:00,Tester Calitate
+15,Anulare comandă,15.12.2023 12:30:00,Lucrător
+16,Primire materii prime,01.11.2023 08:00:00,Lucrător
+16,Extragere uleiuri esențiale din plante,01.11.2023 09:30:00,Chimist Parfumier
+16,Verificare tip flori,01.11.2023 10:00:00,Parfumier
+16,Macerare la cald,01.11.2023 11:00:00,Parfumier
+16,Testare calitate produse,01.11.2023 12:00:00,Tester Calitate
+16,Îmbuteliere și ambalare,01.11.2023 12:30:00,Lucrător
+17,Primire materii prime,15.11.2023 08:00:00,Lucrător
+17,Extragere uleiuri esențiale din plante,15.11.2023 09:30:00,Chimist Parfumier
+17,Verificare tip flori,15.11.2023 10:00:00,Parfumier
+17,Macerare la rece,15.11.2023 11:00:00,Parfumier
+17,Testare calitate produse,15.11.2023 11:30:00,Tester Calitate
+17,Îmbuteliere și ambalare,15.11.2023 12:30:00,Lucrător
+18,Primire materii prime,01.12.2023 08:00:00,Lucrător
+18,Extragere uleiuri esențiale din plante,01.12.2023 09:30:00,Chimist Parfumier
+18,Extragere solvenți volatili,01.12.2023 10:00:00,Chimist Parfumier
+18,Extragere dioxid de carbon,01.12.2023 10:40:00,Chimist Parfumier
+18,Testare calitate produse,05.12.2023 12:00:00,Tester Calitate
+18,Îmbuteliere și ambalare,05.12.2023 12:30:00,Lucrător
+19,Primire materii prime,10.12.2023 08:00:00,Lucrător
+19,Extragere uleiuri esențiale din plante,10.12.2023 09:30:00,Chimist Parfumier
+19,Extragere solvenți volatili,10.12.2023 10:00:00,Chimist Parfumier
+19,Extragere dioxid de carbon,10.12.2023 10:40:00,Chimist Parfumier
+19,Testare calitate produse,11.12.2023 12:00:00,Tester Calitate
+19,Anulare comandă,11.12.2023 12:30:00,Lucrător
+20,Primire materii prime,15.12.2023 08:00:00,Lucrător
+20,Extragere uleiuri esențiale din plante,15.12.2023 09:30:00,Chimist Parfumier
+20,Verificare tip flori,15.12.2023 10:00:00,Parfumier
+20,Macerare la rece,15.12.2023 11:00:00,Parfumier
+20,Testare calitate produse,15.12.2023 11:30:00,Tester Calitate
+20,Anulare comandă,15.12.2023 12:30:00,Lucrător
+21,Primire materii prime,01.11.2023 08:00:00,Lucrător
+21,Extragere uleiuri esențiale din plante,01.11.2023 09:30:00,Chimist Parfumier
+21,Verificare tip flori,01.11.2023 10:00:00,Parfumier
+21,Macerare la cald,01.11.2023 11:00:00,Parfumier
+21,Testare calitate produse,01.11.2023 12:00:00,Tester Calitate
+21,Îmbuteliere și ambalare,01.11.2023 12:30:00,Lucrător
+22,Primire materii prime,15.11.2023 08:00:00,Lucrător
+22,Extragere uleiuri esențiale din plante,15.11.2023 09:30:00,Chimist Parfumier
+22,Verificare tip flori,15.11.2023 10:00:00,Parfumier
+22,Macerare la rece,15.11.2023 11:00:00,Parfumier
+22,Testare calitate produse,15.11.2023 11:30:00,Tester Calitate
+22,Îmbuteliere și ambalare,15.11.2023 12:30:00,Lucrător
+23,Primire materii prime,01.12.2023 08:00:00,Lucrător
+23,Extragere uleiuri esențiale din plante,01.12.2023 09:30:00,Chimist Parfumier
+23,Extragere solvenți volatili,01.12.2023 10:00:00,Chimist Parfumier
+23,Extragere dioxid de carbon,01.12.2023 10:40:00,Chimist Parfumier
+23,Testare calitate produse,05.12.2023 12:00:00,Tester Calitate
+23,Îmbuteliere și ambalare,05.12.2023 12:30:00,Lucrător
+24,Primire materii prime,10.12.2023 08:00:00,Lucrător
+24,Extragere uleiuri esențiale din plante,10.12.2023 09:30:00,Chimist Parfumier
+24,Extragere solvenți volatili,10.12.2023 10:00:00,Chimist Parfumier
+24,Extragere dioxid de carbon,10.12.2023 10:40:00,Chimist Parfumier
+24,Testare calitate produse,11.12.2023 12:00:00,Tester Calitate
+24,Anulare comandă,11.12.2023 12:30:00,Lucrător
+25,Primire materii prime,15.12.2023 08:00:00,Lucrător
+25,Extragere uleiuri esențiale din plante,15.12.2023 09:30:00,Chimist Parfumier
+25,Verificare tip flori,15.12.2023 10:00:00,Parfumier
+25,Macerare la rece,15.12.2023 11:00:00,Parfumier
+25,Testare calitate produse,15.12.2023 11:30:00,Tester Calitate
+25,Anulare comandă,15.12.2023 12:30:00,Lucrător
+26,Primire materii prime,01.11.2023 08:00:00,Lucrător
+26,Extragere uleiuri esențiale din plante,01.11.2023 09:30:00,Chimist Parfumier
+26,Verificare tip flori,01.11.2023 10:00:00,Parfumier
+26,Macerare la cald,01.11.2023 11:00:00,Parfumier
+26,Testare calitate produse,01.11.2023 12:00:00,Tester Calitate
+26,Îmbuteliere și ambalare,01.11.2023 12:30:00,Lucrător
+27,Primire materii prime,15.11.2023 08:00:00,Lucrător
+27,Extragere uleiuri esențiale din plante,15.11.2023 09:30:00,Chimist Parfumier
+27,Verificare tip flori,15.11.2023 10:00:00,Parfumier
+27,Macerare la rece,15.11.2023 11:00:00,Parfumier
+27,Testare calitate produse,15.11.2023 11:30:00,Tester Calitate
+27,Îmbuteliere și ambalare,15.11.2023 12:30:00,Lucrător
+28,Primire materii prime,01.12.2023 08:00:00,Lucrător
+28,Extragere uleiuri esențiale din plante,01.12.2023 09:30:00,Chimist Parfumier
+28,Extragere solvenți volatili,01.12.2023 10:00:00,Chimist Parfumier
+28,Extragere dioxid de carbon,01.12.2023 10:40:00,Chimist Parfumier
+28,Testare calitate produse,05.12.2023 12:00:00,Tester Calitate
+28,Îmbuteliere și ambalare,05.12.2023 12:30:00,Lucrător
+29,Primire materii prime,10.12.2023 08:00:00,Lucrător
+29,Extragere uleiuri esențiale din plante,10.12.2023 09:30:00,Chimist Parfumier
+29,Extragere solvenți volatili,10.12.2023 10:00:00,Chimist Parfumier
+29,Extragere dioxid de carbon,10.12.2023 10:40:00,Chimist Parfumier
+29,Testare calitate produse,11.12.2023 12:00:00,Tester Calitate
+29,Anulare comandă,11.12.2023 12:30:00,Lucrător
+30,Primire materii prime,15.12.2023 08:00:00,Lucrător
+30,Extragere uleiuri esențiale din plante,15.12.2023 09:30:00,Chimist Parfumier
+30,Verificare tip flori,15.12.2023 10:00:00,Parfumier
+30,Macerare la rece,15.12.2023 11:00:00,Parfumier
+30,Testare calitate produse,15.12.2023 11:30:00,Tester Calitate
+30,Anulare comandă,15.12.2023 12:30:00,Lucrător
